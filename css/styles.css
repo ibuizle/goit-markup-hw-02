@@ -1,8 +1,8 @@
 .web-studio{
-    font-family: var(--second-family);
+    font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.8;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -12,15 +12,19 @@
     font-family: var(--second-family);
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.8;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
 }
 
 .button{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     cursor: pointer;
-    background-color: #4d5ae5;
+    background-color: #404BBF;
     color: white;
 }
 
@@ -57,14 +61,14 @@ body {
         color: #434455;
 }
 
-.our{
+.ours{
     font-family: var(--font-family);
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #2e2f42;
+        color: #434455;
 }
 
 
