@@ -8,6 +8,11 @@
         color: #f4f4fd;
 }
 
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
 
 .button{
     font-family: "Roboto", sans-serif;
@@ -21,8 +26,18 @@
 
 button:hover{
   background-color:#404bbf;
-  color: #404bbf;
 
+}
+button:focus{
+  background-color: #404BBF
+}
+
+.link-hover-focus:hover{
+    color: #404bbf;
+}
+
+.link-hover-focus:focus {
+    color: #404bbf;
 }
 
 .logo{
@@ -57,13 +72,12 @@ button:hover{
     color: #2e2f42;
 }
 
-body{
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
-}
 
 .address{
+    font-style: normal
+}
+
+.email{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
