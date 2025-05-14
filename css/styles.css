@@ -1,4 +1,4 @@
-.web{
+.web-studio{
     font-family: var(--second-family);
         font-weight: 700;
         font-size: 18px;
@@ -34,8 +34,9 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 .address{
