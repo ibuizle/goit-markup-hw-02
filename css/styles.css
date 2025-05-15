@@ -8,7 +8,7 @@
         color:#2e2f42;
 }
 
-body {
+.body {
     font-family: "Roboto", "Raleway" sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -109,10 +109,6 @@ body {
 
 .team{
     background-color: #f4f4fd;
-}
-
-.image{
-    background-color: #FFFFFF
 }
 
 .hero-name{
