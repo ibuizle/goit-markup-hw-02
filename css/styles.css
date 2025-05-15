@@ -111,6 +111,10 @@ body {
     background-color: #f4f4fd;
 }
 
+.image{
+    background-color: #FFFFFF
+}
+
 .hero-name{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -143,9 +147,7 @@ body {
         background-color: #FFFFFF;
 }
 
-.img{
-    background-color: #FFFFFF;
-}
+
 
 .app{
     font-family: "Roboto", sans-serif;
