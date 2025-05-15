@@ -1,3 +1,9 @@
+body {
+    font-family: "Roboto", "Raleway" sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
 .studio{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -6,12 +12,6 @@
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color:#2e2f42;
-}
-
-.body {
-    font-family: "Roboto", "Raleway" sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
 }
 
 .button{
